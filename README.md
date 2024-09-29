@@ -19,3 +19,12 @@ Mixed Precision Training: Highlighted the option to further optimize training sp
 Post-Fine-Tuning Inference: Evaluated the enhanced capabilities of the fine-tuned model, noting improvements in response specificity and clarity.
 
 Recommendations for Further Enhancements: Provided actionable suggestions to optimize and expand the fine-tuning process for even better performance.
+
+
+Dataset is take from Hugging face 
+Link-https://huggingface.co/datasets/databricks/databricks-dolly-15k?row=22
+
+
+Gemma 2 Model is from Keggel 
+Link-https://www.kaggle.com/models/keras/gemma/Keras/gemma_2b_en/2
+
